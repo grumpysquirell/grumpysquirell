@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grumpysquirell
 - 👀 I’m interested in Cyber Security, Linux, and Python. 
 - 🌱 I’m currently learning Linux.
-- 💞️ I’m looking to collaborate on security tops once i get some experience.
+- 💞️ I’m looking to collaborate on security topics once i get some experience.
 - 📫 How to reach me gow288.ma@gmail.com
 
 <!---
